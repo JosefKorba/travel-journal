@@ -1,0 +1,21 @@
+.header {
+  background-color: #f55a5a;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.headerTitle {
+  margin: 0;
+  padding: 20px 5px;
+  color: white;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.myIcon {
+  color: white;
+  font-size: 23px;
+}

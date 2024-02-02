@@ -1,0 +1,46 @@
+.card {
+  display: flex;
+  border-bottom: 1px solid #f4f3f7;
+  gap: 1.25rem;
+  padding: 1.25rem 2.5rem;
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+}
+
+.cardImg {
+  width: 8.125rem;
+  border-radius: 0.625rem;
+}
+
+.location {
+  letter-spacing: 0.125rem;
+  text-transform: uppercase;
+  font-size: 0.625rem;
+  margin-bottom: 0;
+  margin-right: 0.625rem;
+}
+
+.locationDot {
+  color: red;
+  font-size: 0.625rem;
+  margin-right: 0.225rem;
+}
+
+.locationMap {
+  color: rgb(177, 175, 175);
+  font-size: 0.625rem;
+}
+
+.cardTitle {
+  margin-top: 0;
+}
+
+.cardDate {
+  font-size: 0.625rem;
+  margin-bottom: 0.4rem;
+}
+
+.cardDescription {
+  font-size: 0.75rem;
+  margin-top: 0;
+}
