@@ -1,3 +1,3 @@
 # Travel Journal
 
-A travel journal website built with React and Vite.
+Second react solo project from Scrimba. A travel journal website built with React and Vite.
